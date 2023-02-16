@@ -1,4 +1,4 @@
 pytest_plugins = [
-    "ecommerce.tests.fixtures",
-    "ecommerce.tests.selenium",
+    "tests.fixtures",
+    "tests.selenium",
 ]
